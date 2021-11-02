@@ -1,0 +1,31 @@
+.home-banner{
+        background-image: url('https://image.freepik.com/free-photo/mountain-journey_1163-3320.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-blend-mode: overlay;
+        height: 500px;
+}
+.text-style{
+
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Noto Serif Display', serif;
+}
+.sec3-font{
+    font-family: 'Zen Antique Soft', serif;
+}
+.bg-color{
+    background-color:rgb(248, 227, 206);
+}
+.color-text{
+    color: rgb(49, 40, 38);
+}
+.underline{
+    border-bottom:grey 1px solid;
+    width: 270px;
+}
+.img-size{
+    width: 100px;
+    height: 100px;
+}

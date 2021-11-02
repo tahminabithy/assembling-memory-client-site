@@ -1,0 +1,14 @@
+.text-color{
+    color: burlywood
+
+}
+
+.text-color:hover{
+    color:rgb(39, 38, 37);
+    background-color: rgb(204, 153, 87)
+}
+.icon-font{
+    font-family: 'Irish Grover', cursive;
+   
+
+}
